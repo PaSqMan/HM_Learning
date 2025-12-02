@@ -1,2 +1,2 @@
-# HumanMachine_Learning
-# We implement AI without AI
+# HumanMachine_Learning: We implement AI without AI
+
